@@ -1,0 +1,31 @@
+body {
+    background-color: #FF5EAF;
+}
+
+.navigation {
+     border: 3px solid;
+ text-align: center;
+ padding: 10px;
+ width: 276px;
+ max-width: 100%;
+ height: 323px;
+ background-color: #FF89C4;
+}
+
+.diaryhold {
+ border: 2px solid ;   
+}
+
+.page {
+    position: relative;
+    width: 500px;
+    height: 700px;
+    margin: 0 auto;
+}
+
+.onpage {
+    position:absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
