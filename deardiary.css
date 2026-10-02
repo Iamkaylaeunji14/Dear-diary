@@ -2,8 +2,14 @@ body {
     background-color: #FF5EAF;
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .navigation {
-     border: 3px solid;
+     border: 3px solid #FF5EAF;
  text-align: center;
  padding: 10px;
  width: 276px;
@@ -13,7 +19,10 @@ body {
 }
 
 .diaryhold {
- border: 2px solid ;   
+display: flex;
+items-align: center;
+ border: 2px solid #FF5EAF ;
+ background-color: #FF89C4;   
 }
 
 .page {
