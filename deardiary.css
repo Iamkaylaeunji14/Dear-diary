@@ -13,6 +13,9 @@ body {
 .container {
     display: flex;
     justify-content: center;
+    border: 3px solid #FF5EAF;
+    background-color: #FFA0D0;
+    padding: 10px;
 }
 
 .navigation {

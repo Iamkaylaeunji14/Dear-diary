@@ -5,8 +5,13 @@ const diaryEntries = [
     },
     {
         date: "Oct 2nd, 2026",
-        text: "Today I took an saq test in APUSH... pretty sure I failed it. The teacher said 5 min left when I had one part of the SAQ done..."
+        text: "Today I took an saq test in APUSH... pretty sure I failed it. The teacher said 5 min left when I had one part of the SAQ done... RIP MY GRADE :("
     },
+
+    {
+        date: "Oct 4th, 2026",
+        text: "Today I have marching band practice. I think it's going to be really cold so I have to make sure to dress warm!"
+    }
 
 ];
 
