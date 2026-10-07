@@ -36,6 +36,9 @@ nav a {
 
 nav ul {
   list-style: none;
+  text-decoration: none;
+  font-size: 30px;
+  color: #FF3D9E;
 }
 
 .diaryhold {
