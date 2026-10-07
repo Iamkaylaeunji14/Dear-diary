@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'Pixelify Sans';
+    src: url('../fonts/PixelifySans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: #FF5EAF;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    border: 3px solid #FF5EAF;
+    background-color: #FFA0D0;
+    padding: 10px;
+}
+
+.navigation {
+border: 3px solid #FF5EAF;
+ padding: 10px;
+ margin: 30px;
+ width: 276px;
+ max-width: 100%;
+ height: 323px;
+ background-color: #FF89C4;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 40px;
+  color: #FF3D9E;
+}
+
+nav ul {
+  list-style: none;
+  text-decoration: none;
+  font-size: 30px;
+  color: #FF3D9E;
+}
+
+.diaryhold {
+display: flex;
+align-items: center;
+border: 2px solid #FF5EAF ;
+background-color: #FF89C4;  
+margin: 30px; 
+}
+
+.page {
+    position: relative;
+    width: 500px;
+    height: 700px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.onpage {
+    position: absolute;
+    top: 90px;
+    left: 60px;
+    right: 60px;
+}
+
+.onpage h1 {
+    font-family: 'pinyon script', cursive;
+    font-size: 28px;
+}
+
+.onpage p {
+    font-family: 'pinyon script', cursive;
+    font-size: 24px;
+    line-height: 1.8;
+}
+
+button {
+    background-color: #FF5EAF;
+    color: #FFA0D0;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 24px;
+    cursor: pointer;
+}
