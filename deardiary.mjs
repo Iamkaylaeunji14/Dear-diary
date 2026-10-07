@@ -11,8 +11,11 @@ const diaryEntries = [
     {
         date: "Oct 4th, 2026",
         text: "Today I have marching band practice. I think it's going to be really cold so I have to make sure to dress warm!"
+    },
+    {
+        date: "Oct 6th, 2026",
+        text: "Today I really wanted to play Dress to Impress but had homework to finish up instead. I've really been slacking on my schoolwork and the quarter's over in a few weeks. I really hope I can get my grades up before then..."
     }
-
 ];
 
 let currentPage = 0;
