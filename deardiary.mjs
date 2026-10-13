@@ -15,7 +15,12 @@ const diaryEntries = [
     {
         date: "Oct 6th, 2026",
         text: "Today I really wanted to play Dress to Impress but had homework to finish up instead. I've really been slacking on my schoolwork and the quarter's over in a few weeks. I really hope I can get my grades up before then..."
-    }
+    },
+
+    {
+        date: "Oct 13th, 2026",
+        text: "Sorry I haven't been keeping up with the entries lately. I've kind of been lock in on apush (me writing this while procrastinating apush) Hope I can find more time for coding in the future."
+    },
 ];
 
 let currentPage = 0;
